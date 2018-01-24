@@ -14,5 +14,4 @@ public class UserOAuthController {
         return "Hello World!";
     }
 
-    
 }
